@@ -2,3 +2,4 @@ nama: Wan aidanuranis
 kelas : kpd 3024
 Program : Sistem PEngurusan PAngkalan Data dan Aplikasi Web
 Kemahiran : git dan GitHub asas
+hobi : mewarna
